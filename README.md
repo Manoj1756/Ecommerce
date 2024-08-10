@@ -1,2 +1,1 @@
-Java, Spring boot E-commerce application backend system.
-
+E-commerce application backend using Java, Springboot 
